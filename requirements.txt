@@ -1,0 +1,8 @@
+interception-python
+dxcam
+pyautogui
+opencv-python
+numpy
+termcolor
+os-sys
+time
